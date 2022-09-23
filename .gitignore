@@ -1,0 +1,6 @@
+venv1/
+venv/
+-ipynb_checkpoints/
+*.json
+*.csv
+*.pkl
