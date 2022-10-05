@@ -1,4 +1,4 @@
-venv1/
+../venv1/
 -ipynb_checkpoints/
 *.json
 *.csv
@@ -7,3 +7,4 @@ report.txt
 *.png
 __pycache__/
 venv1/
+.venv1
