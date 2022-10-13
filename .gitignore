@@ -1,0 +1,10 @@
+../venv1/
+-ipynb_checkpoints/
+*.json
+
+*.pkl
+report.txt
+*.png
+__pycache__/
+venv1/
+.venv1
